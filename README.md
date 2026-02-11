@@ -4,6 +4,7 @@
 <a href="https://quanhaol.github.io/magicmotion-site/"><img src="https://img.shields.io/static/v1?label=Project&message=Page&color=green&logo=github-pages"></a>
 <a href="https://huggingface.co/quanhaol/MagicMotion"><img src="https://img.shields.io/badge/🤗_HuggingFace-Model-ffbd45.svg" alt="HuggingFace"></a>
 <a href="https://huggingface.co/datasets/quanhaol/MagicData"><img src="https://img.shields.io/badge/🤗_HuggingFace-Dataset-ffbd45.svg" alt="HuggingFace"></a>
+<a href="https://huggingface.co/datasets/quanhaol/MagicBench"><img src="https://img.shields.io/badge/🤗_HuggingFace-Benchmark-ffbd45.svg" alt="HuggingFace"></a>
 
 > **MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance**
 > <br>
@@ -26,6 +27,7 @@ Extensive experiments demonstrate that MagicMotion outperforms previous methods 
 <img src="assets/teaser.webp" width="100%" alt="Teaser Image">
 
 ## 📣 Updates
+- `2026/02/11` 🔥🔥MagicBench has been released [`here`](https://huggingface.co/datasets/quanhaol/MagicBench).
 - `2025/07/28` 🔥🔥MagicData has been released [`here`](https://huggingface.co/datasets/quanhaol/MagicData). Welcome to use our dataset!
 - `2025/06/26` 🔥🔥MagicMotion has been accepted by ICCV2025!🎉🎉🎉
 - `2025/03/28` 🔥🔥We released interactive demo with gradio for MagicMotion.
